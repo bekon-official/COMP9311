@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-28T17:09:30.327Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="POlgCGEdTEsIiS4i1kwV" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-28T17:11:44.880Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="u-2mTQ6NJJ8kOUvlFOJF" version="14.4.3" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="2071" dy="682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -154,9 +154,6 @@
         <mxCell id="KPF97uARL9qkCsbA2s35-15" value="phone number" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" parent="1" vertex="1">
           <mxGeometry x="150" y="1120" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KPF97uARL9qkCsbA2s35-16" value="vehicle ID" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" parent="1" vertex="1">
-          <mxGeometry x="150" y="1180" width="220" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="KPF97uARL9qkCsbA2s35-17" value="showroom" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="1490" width="250" height="180" as="geometry" />
         </mxCell>
@@ -231,9 +228,6 @@
               <mxPoint x="20" y="735" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="2_PyIz9dCsxSphYt3JU6-23" value="FK1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="115" y="1185" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="2_PyIz9dCsxSphYt3JU6-24" value="purchase" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="1270" width="250" height="200" as="geometry" />
